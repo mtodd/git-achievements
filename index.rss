@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Matt Todd's Git Achievements</title>
+<item><title>Cleaning lady (Level 4)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Master Goldsmith (Level 7)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 <item><title>Apprentice Archivist (Level 1)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Apprentice Thug (Level 2)</title><description>Forced pushed a branch with git push -f</description></item>
@@ -19,5 +20,4 @@
 <item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Historian (Level 6)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Investigator (Level 4)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
-<item><title>Miller (Level 4)</title><description>Add only part of a file to the stage 539 times with git add -p.</description></item>
 </channel></rss>
