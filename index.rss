@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Matt Todd's Git Achievements</title>
+<item><title>Apprentice Butcher (Level 3)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Apprentice Butcher (Level 2)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Inventor (pulls)</title><description>Used a command that isn't part of the built in Git command</description></item>
 <item><title>Apprentice Butcher (Level 1)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Archivist (Level 1)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Apprentice Thug (Level 2)</title><description>Forced pushed a branch with git push -f</description></item>
 <item><title>Merchant (Level 4)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Banker (Level 6)</title><description>Join two or more development histories together with git merge.</description></item>
 </channel></rss>
